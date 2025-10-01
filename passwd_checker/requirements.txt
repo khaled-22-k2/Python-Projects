@@ -1,0 +1,3 @@
+requests>=2.0
+zxcvbn
+argon2-cffi
